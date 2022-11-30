@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+#barra{
+    height:120;
+}
+
+#caixa{
+    width:700;
+    height:500;
+    overflow:hidden;
+    margin-top: 300;
+    margin-left: 120;
+    margin-bottom: 120;
+    margin-right: 120;
+    margin:auto;
+    text-decoration-style: rgb(248, 249, 250);
+    background-color:rgb(211, 1, 1);
+    color: #fff;
+}
+
+#form{
+    width:500;
+    height:500;
+    margin:auto;
+    margin-top: 60;
+}
